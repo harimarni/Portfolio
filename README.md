@@ -6,7 +6,7 @@ Live site: https://harimarni.github.io/Portfolio/
 
 ## About Me
 
-I am Hari Krishna Marni, a security-focused Cloud, DevOps, and MLOps Engineer with 4+ years of experience across AWS infrastructure, Kubernetes, CI/CD automation, machine learning operations, cloud security, observability, and incident investigation.
+I am Hari Krishna Marni, a security-focused Cloud and DevOps Engineer with 4+ years of experience across AWS infrastructure, Kubernetes, CI/CD automation, cloud security, observability, and incident investigation.
 
 My work focuses on building secure, reliable, and production-ready systems using cloud-native DevOps practices.
 
